@@ -69,3 +69,8 @@
   - initialization
   - condition 
   - update
+
+  ## Things I want to know more about
+
+  * Arrays and how to use them
+  * Use basic CSS to execute more complex results
